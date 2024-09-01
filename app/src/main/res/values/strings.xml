@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hidrotrack</string>
+
+    <string name="start_screen">Pantalla de Inicio</string>
+
+    <string name="water_consumtion">Registro de consumo de Agua</string>
+
+    <string name="tips">Consejos de consumo</string>
+
+    <string name="progress">Pantalla de progreso</string>
+
+    <string name="water_info">Conservacion del Agua</string>
+
+    <string name="settings">Configuracion</string>
+</resources>
